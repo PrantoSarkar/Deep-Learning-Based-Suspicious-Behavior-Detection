@@ -14,6 +14,9 @@ This repository presents the research work associated with our published study o
 
 **DOI:**  
 https://doi.org/10.21203/rs.3.rs-2015075/v1
+**Datasets:**  
+https://www.kaggle.com/datasets/prantosarkar/suspicious-human-action
+https://www.kaggle.com/datasets/prantosarkar/validation050
 
 ## 🔬 About the Research
 
